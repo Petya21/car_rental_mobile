@@ -1,44 +1,44 @@
-<h1 align="center">📱 Car Rental Mobile App 📱</h1>
+<h1 align="center">📱 Autóbérlő Mobilalkalmazás 📱</h1>
 
-# ❗Important Information
+# ❗Fontos tudnivalók
 
-This is a Flutter-based mobile application for car rentals. The app allows users to browse cars, make reservations, and manage their rentals through a modern, user-friendly mobile interface.
+Ez egy Flutter alapú mobilalkalmazás autóbérléshez. Az alkalmazás lehetővé teszi a felhasználók számára, hogy autók között böngésszenek, foglalásokat készítsenek és kezeljék bérléseiket egy modern, felhasználóbarát mobil felületen keresztül.
 
-# 💻 Technologies Used
+# 💻 Használt technológiák
 
 - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 - ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 - ![HTTP](https://img.shields.io/badge/HTTP-Package-blue?style=for-the-badge)
 - ![SharedPreferences](https://img.shields.io/badge/Shared_Preferences-Storage-green?style=for-the-badge)
 
-# 🔎 Getting Started
+# 🔎 Használatba vétel
 
-Follow these steps to run the project:
+Kövesd az alábbi lépéseket a projekt futtatásához:
 
-### Prerequisites
+### Előfeltételek
 
 - Flutter SDK (^3.7.2)
 - Dart SDK
-- Android Studio or VS Code with Flutter extensions
+- Android Studio vagy VS Code Flutter bővítményekkel
 
-### Installation
+### Telepítés
 
-1. Clone the repository
+1. Klónozd le a repository-t
    ```sh
    git clone <repository-url>
    ```
 
-2. Install dependencies
+2. Függőségek telepítése
    ```sh
    flutter pub get
    ```
 
-3. Run the application
+3. Alkalmazás indítása
    ```sh
    flutter run
    ```
 
-### Supported Platforms
+### Támogatott platformok
 
 - Android
 - iOS
@@ -47,9 +47,9 @@ Follow these steps to run the project:
 - macOS
 - Web
 
-# 📱 Features
+# 📱 Funkciók
 
-- Material Design UI
-- Cross-platform support
-- Asset management for car images
-- Responsive layout
+- Material Design felhasználói felület
+- Többplatformos támogatás
+- Autó képek kezelése
+- Reszponzív elrendezés
