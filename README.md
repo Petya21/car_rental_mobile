@@ -1,16 +1,55 @@
-# car_rental_mobile
+<h1 align="center">📱 Car Rental Mobile App 📱</h1>
 
-A new Flutter project.
+# ❗Important Information
 
-## Getting Started
+This is a Flutter-based mobile application for car rentals. The app allows users to browse cars, make reservations, and manage their rentals through a modern, user-friendly mobile interface.
 
-This project is a starting point for a Flutter application.
+# 💻 Technologies Used
 
-A few resources to get you started if this is your first Flutter project:
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+- ![HTTP](https://img.shields.io/badge/HTTP-Package-blue?style=for-the-badge)
+- ![SharedPreferences](https://img.shields.io/badge/Shared_Preferences-Storage-green?style=for-the-badge)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# 🔎 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Follow these steps to run the project:
+
+### Prerequisites
+
+- Flutter SDK (^3.7.2)
+- Dart SDK
+- Android Studio or VS Code with Flutter extensions
+
+### Installation
+
+1. Clone the repository
+   ```sh
+   git clone <repository-url>
+   ```
+
+2. Install dependencies
+   ```sh
+   flutter pub get
+   ```
+
+3. Run the application
+   ```sh
+   flutter run
+   ```
+
+### Supported Platforms
+
+- Android
+- iOS
+- Linux
+- Windows
+- macOS
+- Web
+
+# 📱 Features
+
+- Material Design UI
+- Cross-platform support
+- Asset management for car images
+- Responsive layout
