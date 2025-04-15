@@ -20,6 +20,8 @@ Kövesd az alábbi lépéseket a projekt futtatásához:
 - Flutter SDK (^3.7.2)
 - Dart SDK
 - Android Studio vagy VS Code Flutter bővítményekkel
+- Android/iOS emulátor vagy valódi eszköz
+- A backend alkalmazás futtatása
 
 ### Telepítés
 
@@ -51,5 +53,7 @@ Kövesd az alábbi lépéseket a projekt futtatásához:
 
 - Material Design felhasználói felület
 - Többplatformos támogatás
-- Autó képek kezelése
 - Reszponzív elrendezés
+- Autók lefoglalása
+- Autóbérlés előzményeinek megtekintése
+- Autók részletes információinak megtekintése
